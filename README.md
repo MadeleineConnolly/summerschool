@@ -5,4 +5,4 @@ Madi's summer school repository
 - Just so I could
 - I'm learning!!! 
 
-> "Live, laugh, love, murder"
+> "Hi, I'm Madi"
